@@ -1,6 +1,8 @@
 
 
 ## **to run**
+npm install and then 
+
     node main.ts
     
 
