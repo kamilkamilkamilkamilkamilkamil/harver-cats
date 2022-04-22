@@ -5,6 +5,15 @@ npm install and then
 
     node main.ts
     
+## **notes**
+
+ - Sadly, we don't get a cool merged cat image.
+ - I tried digging a bit into why it wasn't working, but I guessed that
+   researching the 'merge-images' package wasn't the point of the
+   exercise.
+ - Typesafety is missing.
+ - Better way of handling args is needed. Perhaps a set of defaults and
+   then overwriting them based on the args presented
 
 ## personal notes:
 
